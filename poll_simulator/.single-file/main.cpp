@@ -4,7 +4,7 @@
 
 enum Personality
 {
-    SMART = 0,
+    SMART,
     POLITE,
     GENEROUS,
     SOCIABLE
